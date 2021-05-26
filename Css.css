@@ -1,0 +1,175 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+ font-family: 'Merriweather', serif;
+color:#40514E;
+
+	margin:0px;
+	padding: 0px;
+	box-sizing:border-box;
+
+
+
+ }
+
+/* @media screen and (max-width: 768px){
+
+ 	body{
+ 		overflow-x: hidden;
+ 		margin: 0 auto;
+ 	}
+ }*/
+ p{
+ 	line-height: 2;
+ }
+ hr{
+ 	border:none;
+ 	border-top-style: dotted;
+    border-top-width: 10px;
+    width: 4%;
+    color: #EAF6F6;
+margin: 100px auto;
+
+ }
+ .contact{
+ 	width: 30%;
+ 	margin:auto;
+ }
+ .intro{
+ 	width:40%;
+ 	margin: 40px auto 60px; 
+ }
+ h1{
+ 	margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 450.5%;
+color:#66BFBF; 
+padding-bottom: 10px;
+	
+}
+.skill-row{
+
+	width:50%;
+    margin: 100px auto 100px auto; 
+/*    	text-align: left;
+*/	line-height:2;
+
+} 
+
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size:2.5rem;
+
+color:#66BFBF;
+
+}
+
+h3{
+ 	font-family: 'Montserrat', sans-serif;
+ 	color: #11999E;
+ }
+ a{
+
+ 	color:#11999E;
+ }
+.meaw{
+	font-weight: normal;
+}
+span{
+	text-decoration: underline;
+}
+.Top-container{
+background-color: #E4F9F5;
+padding-top : 100px;
+position: relative;
+	
+}
+.middle-container {
+margin:100px 0;
+
+  
+}
+.bottom-container{
+background-color: #66BFBF;
+padding:40px 0 20px;
+
+	 
+}
+
+.footer-link{
+	color:darkcyan;
+
+
+}
+
+.bottom-cloud{
+	position: absolute;
+	left: 350px;
+	bottom: 310px;
+
+	
+}
+.top-cloud{
+	position: absolute;
+	right: 400px;
+	top:40px;
+}
+
+.web{
+	width: 25%;
+	float:left;
+	margin-right:30px;
+
+
+}
+.quran{
+	width: 25%;
+float:right;
+margin-right:30px;
+
+}
+
+.german{
+	width: 25%;
+	float:left;	
+	margin-right:30px;	
+	 
+}
+.c{
+color:#EAF6F6;
+	padding:20px 0;
+}
+.btn{
+
+  background-color:#11999E; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+border-radius:12px;
+margin: 30px auto;
+
+}
+.btn:hover{
+	background-color:#30e3cb;
+}
+a{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:#11999E;
+	display:inline-block;
+	margin: 10px 20px; 
+}
+a:hover{
+	color:#EAF6F6;
+}
+
+
+
+
+
+

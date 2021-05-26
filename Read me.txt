@@ -1,0 +1,8 @@
+An old project
+no backend just pure html and css 
+
+(*make sure to open the WIFI connection for the fonts to load*)
+
+and the lorem ipusm is a text generator  just to see how the website would response with long text.
+
+Hello creative Director !
